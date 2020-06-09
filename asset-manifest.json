@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/rakz25/counter-app.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/rakz25/counter-app.git/static/js/main.3daba0fe.chunk.js",
-    "main.js.map": "/rakz25/counter-app.git/static/js/main.3daba0fe.chunk.js.map",
-    "runtime-main.js": "/rakz25/counter-app.git/static/js/runtime-main.900e6b3f.js",
-    "runtime-main.js.map": "/rakz25/counter-app.git/static/js/runtime-main.900e6b3f.js.map",
-    "static/js/2.391a5d1a.chunk.js": "/rakz25/counter-app.git/static/js/2.391a5d1a.chunk.js",
-    "static/js/2.391a5d1a.chunk.js.map": "/rakz25/counter-app.git/static/js/2.391a5d1a.chunk.js.map",
-    "index.html": "/rakz25/counter-app.git/index.html",
-    "precache-manifest.1472280159b6197c1a173d42d2e59287.js": "/rakz25/counter-app.git/precache-manifest.1472280159b6197c1a173d42d2e59287.js",
-    "service-worker.js": "/rakz25/counter-app.git/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/rakz25/counter-app.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.391a5d1a.chunk.js.LICENSE.txt": "/rakz25/counter-app.git/static/js/2.391a5d1a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/rakz25/counter-app.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/counter-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/counter-app/static/js/main.03195229.chunk.js",
+    "main.js.map": "/counter-app/static/js/main.03195229.chunk.js.map",
+    "runtime-main.js": "/counter-app/static/js/runtime-main.2138ca79.js",
+    "runtime-main.js.map": "/counter-app/static/js/runtime-main.2138ca79.js.map",
+    "static/js/2.391a5d1a.chunk.js": "/counter-app/static/js/2.391a5d1a.chunk.js",
+    "static/js/2.391a5d1a.chunk.js.map": "/counter-app/static/js/2.391a5d1a.chunk.js.map",
+    "index.html": "/counter-app/index.html",
+    "precache-manifest.dcdf4e69f30d5707b39f69341a77930b.js": "/counter-app/precache-manifest.dcdf4e69f30d5707b39f69341a77930b.js",
+    "service-worker.js": "/counter-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/counter-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.391a5d1a.chunk.js.LICENSE.txt": "/counter-app/static/js/2.391a5d1a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/counter-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.900e6b3f.js",
+    "static/js/runtime-main.2138ca79.js",
     "static/js/2.391a5d1a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3daba0fe.chunk.js"
+    "static/js/main.03195229.chunk.js"
   ]
 }
